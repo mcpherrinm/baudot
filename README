@@ -1,0 +1,7 @@
+baudot
+------
+
+A library for dealing with baudot-encoded data in Rust
+
+It supports several variations, but primarily handles ITA2, as used in RTTY,
+TTD, and other related communcications protocols.
