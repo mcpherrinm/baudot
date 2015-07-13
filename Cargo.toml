@@ -1,4 +1,8 @@
 [package]
 name = "baudot"
 version = "0.1.0"
-authors = ["Matt McPherrin <git@mcpherrin.ca>"]
+authors = ["Matt McPherrin <matt@mcpherrin.ca>"]
+repository = "https://github.com/mcpherrinm/baudot.git"
+keywords = ["TTY", "TDD", "baudot", "ITA2", "characters"]
+license = "MIT"
+description = "Baudot and related five bit codes in Rust"
